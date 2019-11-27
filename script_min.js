@@ -628,7 +628,7 @@ function Dash_init(){
 		'<div id="MinerPayments"></div>'+
 		'<div id="MinerGraph"></div>'+
 		'<div id="MinerDash" class="LR85 txtbig C3'+mde+' hide"></div>'+
-		'<div id="WorkerList" class="LR85 shimtop20"></div>'+'<div id="google" class="ZYD1 shimtop20"><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86" data-ad-client="ca-pub-3207370288385231" data-ad-slot="5988392308"></ins></div>';
+		'<div id="WorkerList" class="LR85 shimtop20"></div>'+'<div id="google" align="center" class="ZYD1 shimtop20"><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86" data-ad-client="ca-pub-3207370288385231" data-ad-slot="5988392308"></ins></div>';
 
 	$C['Stage'].innerHTML = ins;
 	
