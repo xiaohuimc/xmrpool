@@ -366,7 +366,7 @@ function init(){
 		$C['AddrField'].value = addr;
 		$C['AddrField'].blur();
 	}else{
-		$C['AddrField'].setAttribute('placeholder', '你的'+$Q['cur']['nme']+'钱包地址...');
+		$C['AddrField'].setAttribute('placeholder', '在此填入你的'+$Q['cur']['nme']+'钱包地址查询...');
 	}
 	
 	if(mde === 'l' && pref && pref.charAt(0) === 'D'){
