@@ -627,8 +627,7 @@ function Dash_init(){
 		ins = '<div id="News" class="hide"><div id="NewsCard" class="LR85 C0bk'+mde+' C3'+mde+' shimtop20"></div></div>'+
 		'<div id="MinerPayments"></div>'+
 		'<div id="MinerGraph"></div>'+
-		'<div id="MinerDash" class="LR85 txtbig C3'+mde+' hide"></div>'+
-		'<div id="WorkerList" class="LR85 shimtop20"></div>'+'<div id="google" class="ZYD1 shimtop20"><table border="0" align="center"><tr><td><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86" data-ad-client="ca-pub-3207370288385231" data-ad-slot="5988392308"></ins></td></tr></table></div>';
+		'<div id="MinerDash" class="LR85 txtbig C3'+mde+' hide"></div>';
 
 	$C['Stage'].innerHTML = ins;
 	
