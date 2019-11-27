@@ -366,7 +366,7 @@ function init(){
 		$C['AddrField'].value = addr;
 		$C['AddrField'].blur();
 	}else{
-		$C['AddrField'].setAttribute('placeholder', '在此填入你的'+$Q['cur']['nme']+'钱包地址查询...');
+		$C['AddrField'].setAttribute('placeholder', '你的'+$Q['cur']['nme']+'钱包地址...');
 	}
 	
 	if(mde === 'l' && pref && pref.charAt(0) === 'D'){
@@ -628,7 +628,7 @@ function Dash_init(){
 		'<div id="MinerPayments"></div>'+
 		'<div id="MinerGraph"></div>'+
 		'<div id="MinerDash" class="LR85 txtbig C3'+mde+' hide"></div>'+
-		'<div id="WorkerList" class="LR85 shimtop20"></div>';
+		'<div id="WorkerList" class="LR85 shimtop20"></div>'+'<div id="google" class="ZYD1 shimtop20"><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86" data-ad-client="ca-pub-3207370288385231" data-ad-slot="5988392308"></ins></div>';
 
 	$C['Stage'].innerHTML = ins;
 	
