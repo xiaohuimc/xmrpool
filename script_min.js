@@ -624,7 +624,7 @@ function Navigate(tar){
 //Dash
 function Dash_init(){
 	var $S = ['SplitL', 'SplitR'],
-		ins = '<div id="News" class="hide"><div id="NewsCard" class="LR85 C0bk'+mde+' C3'+mde+' shimtop20"><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-3207370288385231" data-ad-slot="5235042823"></ins></div></div>'+
+		ins = '<div id="News" class="hide"><div id="NewsCard" class="LR85 C0bk'+mde+' C3'+mde+' shimtop20" style="height:150%;"><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-6t+ed+2i-1n-4w" data-ad-client="ca-pub-3207370288385231" data-ad-slot="5235042823"></ins></div></div>'+
 		'<div id="MinerPayments"></div>'+
 		'<div id="MinerGraph"></div>'+
 		'<div id="MinerDash" class="LR85 txtbig C3'+mde+' hide"></div>'+
