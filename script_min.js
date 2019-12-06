@@ -1139,14 +1139,14 @@ function dta_Help(){
 			'<div class="helpcontent hide">'+
 				'<p>Select the miner that best suits your hardware and follow their installation instructions. If you need help, visit #monero-pools.</p>'+
 				'<p><table class="txtsmall C3'+mde+'"><tr>'+
-					'<td NOWRAP>'+
-						'<i>Alphabetically</i><br>'+
-						'<a href="https://github.com/KlausT/ccminer-cryptonight/releases" class="C1 hov" target="_blank">ccminer-cryptonight</a> (Nvidia)<br>'+
+'<td NOWRAP>'+
+						'<i>挖矿软件列表</i><br>'+
+						'<a href="https://blog.xmrpool.me/download/" class="C1 hov" target="_blank">XMRig</a> (CPU, Nvidia, AMD)<br>'+
 						'<a href="https://bitcointalk.org/index.php?topic=638915.0" class="C1 hov" target="_blank">Claymore\'s miner</a> (CPU, AMD)<br>'+
 					'</td>'+
 					'<td NOWRAP>'+
 						'<a href="https://github.com/Dead2/CryptoGoblin/releases" class="C1 hov" target="_blank">CryptoGoblin</a> (CPU, Nvidia, AMD)<br>'+
-						'<a href="https://github.com/xmrig/xmrig/" class="C1 hov" target="_blank">XMRig</a> (CPU, Nvidia, AMD)<br>'+
+						'<a href="https://github.com/KlausT/ccminer-cryptonight/releases" class="C1 hov" target="_blank">ccminer-cryptonight</a> (Nvidia)<br>'+
 						'<a href="https://github.com/fireice-uk/xmr-stak/releases" class="C1 hov" target="_blank">XMR-Stak</a> (CPU, Nvidia, AMD)'+
 					'</td>'+
 				'</tr></table></p>'+
