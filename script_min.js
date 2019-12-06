@@ -19,7 +19,7 @@ var	mde = 'l',
 		//'api':'http://69.164.198.226/api/',
 		'explorer':'https://xmrchain.net/block/',
 		'explorertx':'https://xmrchain.net/tx/',
-		'news':false,												//enable news (motd) alerts on homepage
+		'news':true,												//enable news (motd) alerts on homepage
 		'email':false,												//enable email notifications
 		'timer':60,													//refresh timer in seconds
 		'graph':{
