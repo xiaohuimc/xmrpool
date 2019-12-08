@@ -1130,7 +1130,7 @@ function dta_Help(){
 			'<div class="helptitle txtbig">第1步 - 安装电子钱包并创建地址<div class="btnback">'+$I['arrow']+'</div></div>'+
 			'<div class="helpteaser">如果您需要门罗币地址和钱包，请从此处开始。</div>'+
 			'<div class="helpcontent hide">'+
-				'<p>The <a href="https://www.getmonero.org/downloads/" target="_blank" class="C1 hov">Official Monero Wallet</a> is recommended. Monero Outreach\'s <a href="https://www.monerooutreach.org/stories/monero_wallet_quickstart.php" class="C1 hov" target="_blank">Wallet Guide</a> has a list of other wallet options including paper wallets.</p>'+
+				'</br><p>1.使用官方钱包，使用教程请访问：<a href="https://blog.xmrpool.me/2019/09/18/49/"  target="_blank" class="C1 hov"> https://blog.xmrpool.me/2019/09/18/49/</a></p></br><p>2.使用交易所钱包（注册享受1年9折交易费），可将挖到的门罗币直接变现： <a href="https://gatecn.io/signup/261251"  target="_blank" class="C1 hov">https://gatecn.io/signup/261251</a></p>'+
 			'</div>'+
 		'</div>'+
 		'<div class="helpgroup">'+
