@@ -1127,15 +1127,15 @@ function dta_Help(){
 	document.getElementById('PageTopR').innerHTML = '<span class="txttny C2">Join Us on IRC<br>#monero-pools</span>';
 	var ins = '<p>'+$$['hlp']['text']+'</p>'+
 		'<div class="helpgroup">'+
-			'<div class="helptitle txtbig">第1步 - 安装电子钱包并创建地址<div class="btnback">'+$I['arrow']+'</div></div>'+
+			'<div class="helptitle txtbig">第1步 - 下载门罗币钱包和创建门罗币钱包地址<div class="btnback">'+$I['arrow']+'</div></div>'+
 			'<div class="helpteaser">如果您需要门罗币地址和钱包，请从此处开始。</div>'+
 			'<div class="helpcontent hide">'+
 				'</br><p>1.使用官方钱包，使用教程请访问：<a href="https://blog.xmrpool.me/2019/09/18/49/"  target="_blank" class="C1 hov"> https://blog.xmrpool.me/2019/09/18/49/</a></p></br><p>2.使用交易所钱包（注册享受1年9折交易费），可将挖到的门罗币直接变现： <a href="https://gatecn.io/signup/261251"  target="_blank" class="C1 hov">https://gatecn.io/signup/261251</a></p>'+
 			'</div>'+
 		'</div>'+
 		'<div class="helpgroup">'+
-			'<div class="helptitle txtbig">第2步 - 安装挖矿软件<div class="btnback">'+$I['arrow']+'</div></div>'+
-			'<div class="helpteaser">安装挖掘Monero所需的软件。</div>'+
+			'<div class="helptitle txtbig">第2步 - 下载挖矿软件<div class="btnback">'+$I['arrow']+'</div></div>'+
+			'<div class="helpteaser">下载门罗币所需挖矿软件</div>'+
 			'<div class="helpcontent hide">'+
 				'<p>选择适合您的挖矿软件，推荐使用XMRig或XMR-Stak</p>'+
 				'<p><table class="txtsmall C3'+mde+'"><tr>'+
