@@ -42,7 +42,7 @@ var	mde = 'l',
 		},
 		'hlp':{
 			'head':'欢迎使用 '+$Q['pool']['nme'],
-			'text':'入门很容易，并且这个游泳池有一个庞大而友好的社区，乐意为您提供帮助。 池操作员是M5M400和Snipa22，可以在＃monero-pool IRC或通过<a href="mailto:support@supportxmr.com" class="C1 hov">support@supportxmr.com</a>与他们联系。 请耐心等待，有人会回复您。 在大多数情况下，可以在聊天中更快地找到帮助。 池中有一个非常稳定且熟悉的社区-您可以加入聊天并在那里寻求帮助和友好的聊天 :)'
+			'text':'<p></p>'
 		},
 		'msg':{
 			'welcome':{'head':'Welcome to '+$Q['pool']['nme'], 'text':'访问<u class="nav C1" data-tar="help">帮助部分</u>进行设置，在上方输入您的'+$Q['cur']['nme']+'钱包地址提交后，您的统计信息将显示在此处。'},
@@ -1137,7 +1137,7 @@ function dta_Help(){
 			'<div class="helptitle txtbig">第2步 - 安装挖矿软件<div class="btnback">'+$I['arrow']+'</div></div>'+
 			'<div class="helpteaser">安装挖掘Monero所需的软件。</div>'+
 			'<div class="helpcontent hide">'+
-				'<p>Select the miner that best suits your hardware and follow their installation instructions. If you need help, visit #monero-pools.</p>'+
+				'<p>选择适合您的挖矿软件，推荐使用XMRig或XMR-Stak</p>'+
 				'<p><table class="txtsmall C3'+mde+'"><tr>'+
 '<td NOWRAP>'+
 						'<i>挖矿软件列表</i><br>'+
