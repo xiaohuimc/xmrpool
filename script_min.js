@@ -1157,7 +1157,7 @@ function dta_Help(){
 			'<div class="helpteaser">选择一个矿池服务器和端口并配置您的挖矿软件。</div>'+
 			'<div class="helpcontent hide">'+
 				'<p>每个采矿软件都有其自己的配置，但是它们都会要求相同的信息:</p>'+
-				'<p><b>你的门罗币(Monero)钱包地址</b><br>Often this will be labeled username, but check the instructions. You can specify a paymentID by using the following format: <i>address</i>.<i>paymentID</i></p>'+
+				'<p><b>你的门罗币(Monero)钱包地址</b><br>通常软件上标注为用户名，但请查看挖矿软件文档进行配置。</p>'+
 				'<p><b>矿池地址</b><br>矿工将需要一个URL和一个端口，如下所示：pool.supportxmr.com:3333</p>'+
 				'<p><table class="txtsmall C3'+mde+'"><tr>'+
 					'<td>'+
