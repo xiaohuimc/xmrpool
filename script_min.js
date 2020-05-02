@@ -1170,9 +1170,9 @@ function dta_Help(){
 					'</td>'+
 				'</tr></table></p>'+
 '<p><b>选项</b></br>您可以通过配置设置不同设备挖矿，下面以XMRig为例，<a href="https://blog.csdn.net/qq_24676097/article/details/103209024" target="_blank">点击获取跟多配置信息</a>：</p>'+
-'<p>使用CPU挖矿</p><p><i>&emsp;&emsp;(例如 xmrig.exe --coin=monero -o pool.supportxmr.com:5555 -u 47h...Zu8x  )</i></p>'+
-'<p>使用A卡挖矿</p><p><i>&emsp;&emsp;(例如 xmrig.exe --coin=monero -o pool.supportxmr.com:5555 -u 47h...Zu8x --opencl  )</i></p>'+
-'<p>使用N卡挖矿</p><p><i>&emsp;&emsp;(例如 xmrig.exe --coin=monero -o pool.supportxmr.com:5555 -u 47h...Zu8x --cuda  )</i></p>'+
+'<p>使用CPU挖矿</p><p><i>&emsp;&emsp;(例如 xmrig.exe --coin=monero -o pool.xmrpool.me:5555 -u 47h...Zu8x  )</i></p>'+
+'<p>使用A卡挖矿</p><p><i>&emsp;&emsp;(例如 xmrig.exe --coin=monero -o pool.xmrpool.me:5555 -u 47h...Zu8x --opencl  )</i></p>'+
+'<p>使用N卡挖矿</p><p><i>&emsp;&emsp;(例如 xmrig.exe --coin=monero -o pool.xmrpool.me:5555 -u 47h...Zu8x --cuda  )</i></p>'+
 			'</div>'+
 		'</div>'+
 		'<div class="helpgroup">'+
