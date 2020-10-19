@@ -69,14 +69,17 @@
 		 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-    <script src="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js"></script>
-	<script>
-	var notyf = new Notyf({
-  duration: 10000});
+<script src="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js"></script>
+<script>
+const notyf = new Notyf();
 
-// Display a success notification
-notyf.success('请更新您的钱包！Monero 有一个网络升级，要求所有用户更新他们的钱包和守护程序到 v0.17.x。如果不更新钱包和守护进程，您将看不到新转入的交易（即付款）');
-	</script>
+notyf.error({
+  message: '请更新您的钱包！Monero 有一个网络升级，要求所有用户更新他们的钱包和守护程序到 v0.17.x。如果不更新钱包和守护进程，您将看不到新转入的交易（即付款）',
+  duration: 9000,
+  dismissible:true,
+  icon: false
+})
+</script>
 
 <script>
 var _hmt = _hmt || [];
