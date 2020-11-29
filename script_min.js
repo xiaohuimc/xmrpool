@@ -1130,7 +1130,7 @@ function dta_Help(){
 			'<div class="helptitle txtbig">第1步 - 下载门罗币钱包和创建门罗币钱包地址<div class="btnback">'+$I['arrow']+'</div></div>'+
 			'<div class="helpteaser">如果您需要门罗币地址和钱包，请从此处开始。</div>'+
 			'<div class="helpcontent hide">'+
-				'</br><p>1.使用官方钱包，使用教程请访问：<a href="https://blog.xmrpool.me/2019/09/18/49/"  target="_blank" class="C1 hov"> https://blog.xmrpool.me/2019/09/18/49/</a></p></br><p>2.使用交易所钱包（注册享受1年9折交易费），可将挖到的门罗币直接变现： <a href="https://gatecn.tv/signup/261251"  target="_blank" class="C1 hov">https://gatecn.tv/signup/261251</a></p>'+
+				'</br><p>1.使用官方钱包，使用教程请访问：<a href="https://blog.xmrpool.me/2019/09/18/49/"  target="_blank" class="C1 hov"> https://blog.xmrpool.me/2019/09/18/49/</a></p></br><p>2.使用交易所钱包（注册享受1年9折交易费），可将挖到的门罗币直接变现： <a href="https://gatecn.tv/signup/261251"  target="_blank" class="C1 hov">https://gatecn.tv/signup/261251</a>（网站可能会被墙，如果不能访问请科学上网，如以注册请下载app，app不会被墙。我也会不定时更新节点的。）</p>'+
 			'</div>'+
 		'</div>'+
 		'<div class="helpgroup">'+
